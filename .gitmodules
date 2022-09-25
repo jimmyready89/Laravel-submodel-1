@@ -1,0 +1,3 @@
+[submodule "flg"]
+	path = ../../
+	url = https://github.com/jimmyready89/Laravel-submodel-1.git
